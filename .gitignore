@@ -7,7 +7,6 @@ local.properties
 
 # Gradle generated files
 .gradle/
-gradle/
 
 # User-specific configurations
 /.idea
