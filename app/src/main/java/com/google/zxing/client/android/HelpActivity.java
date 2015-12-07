@@ -21,6 +21,9 @@ import android.os.Bundle;
 import android.view.KeyEvent;
 import android.webkit.WebView;
 
+import com.google.zxing.client.android.R;
+import com.google.zxing.client.android.LocaleManager;
+
 /**
  * An HTML-based help screen.
  *
